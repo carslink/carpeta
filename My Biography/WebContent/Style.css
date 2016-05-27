@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+{margin:0. padding: 0;}
+p{font-size: 16pt; color: black;}
+#est{letter-spacing: 0.5em;}
+h1#est{letter-spacing: 2.3em;}
+table{ border: 1px solid black;
+				 width: 100%;}
+td, th { border: 1px solid black;}
+li{font-size: 15pt; color: black;}
